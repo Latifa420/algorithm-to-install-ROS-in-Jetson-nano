@@ -1,1 +1,5 @@
-# algorithm-to-install-ROS-in-Jetson-nano
+algorithm and commands to install ROS in Jetson nano 
+by use these commands will install Robot Operating System (ROS) Melodic on the NVIDIA Jetson Developer Kits.
+
+The Jetson Nano is an embedded Linux dev kit featuring a GPU accelerated processor (NVIDIA Tegra) targeted at edge AI applications. You can easily add a USB external microphone or camera - and it's fully supported by Edge Impulse. You'll be able to sample raw data, build models, and deploy trained machine learning models directly from the Studio. 
+Robot Operating System (ROS or ros) is an open-source robotics middleware suite. Although ROS is not an operating system (OS) but a set of software frameworks for robot software development, it provides services designed for a heterogeneous computer cluster such as hardware abstraction, low-level device control, implementation of commonly used functionality, message-passing between processes, and package management. Running sets of ROS-based processes are represented in a graph architecture where processing takes place in nodes that may receive, post, and multiplex sensor data, control, state, planning, actuator, and other messages. Despite the importance of reactivity and low latency in robot control, ROS is not a real-time operating system (RTOS).
